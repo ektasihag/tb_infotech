@@ -1,8 +1,8 @@
 <?php
 
-namespaces App\Http\Controllers;
+namespace App\Http\Controllers;
 
 abstract class Controller
 {
-    
+    return 1;
 }
