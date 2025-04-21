@@ -6,6 +6,6 @@ abstract class Controller
 {
     public function checkStatus()
     {
-        return "Somethings elses for Gits!";
+        return "Somethings";
     }
 }
