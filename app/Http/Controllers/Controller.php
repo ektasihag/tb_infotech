@@ -4,5 +4,8 @@ namespace App\Http\Controllers;
 
 abstract class Controller
 {
-    return 1;
+    public function checkStatus()
+    {
+        return "Somethings elses for Gits!";
+    }
 }
