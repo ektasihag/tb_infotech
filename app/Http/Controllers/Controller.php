@@ -5,7 +5,8 @@ namespace App\Http\Controllers;
 abstract class Controller
 {
     public function checkStatus()
-    {
-        return "Somethings";
-    }
+{
+    return "Somethings from the main branch!";
+}
+
 }
