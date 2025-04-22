@@ -6,6 +6,6 @@ abstract class Controller
 {
     public function checkStatus()
     {
-        return "Somethings";
+        return "Somethings from the feature branch!";
     }
 }
